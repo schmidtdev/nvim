@@ -1,4 +1,4 @@
-# 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+# My LazyVim Config
+
+I'm starting using NeoVim and decided to use LazyVim with some custom keymaps and configs to make myself comfortable while learning it. This repo will track my journey through using custom keybinds to make NeoVim work somewhat like common editors to remove them and use only Vim binds.
